@@ -1,6 +1,6 @@
 # Bournemouth VS Crystal Palace
 
-| ![Bournemouth](https://upload.wikimedia.org/wikipedia/en/3/36/AFC_Bournemouth.svg) | ![Cristal Parance](https://upload.wikimedia.org/wikipedia/en/2/2d/Crystal_Palace_FC_logo_2014.svg) |
+| ![Bournemouth](https://upload.wikimedia.org/wikipedia/sco/e/e5/AFC_Bournemouth_%282013%29.svg) | ![Cristal Parance](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrHIWg1SfqohwKjCGSS5fcbOK4Z73YVhoZQ&s) |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Bournemouh**                                                                           | **Everton**                                                                    |
 
@@ -10,7 +10,9 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 ![Imagen del duelo](http://cnd.ultratv.rf.gd/eventos/v1/bournemouthvscrystalpalace.png)
 
 ---
-
+## Transmisión en Vivo  
+| ![Logo ESPN1](https://golazotv2stream.web.app/logos/espn.png) | ![Logo ESPN2](https://golazotv2stream.web.app/logos/espn2.png) |
+|-------------------------------------------------------------|-------------------------------------------------------------|
 
 [**Instalar APK**](https://apk.e-droid.net/apk/app3418656-hvjn5f.apk?v=6)
 

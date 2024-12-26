@@ -1,6 +1,6 @@
 # Bournemouth VS Crystal Palace
 
-| ![Bournemouth](https://upload.wikimedia.org/wikipedia/sco/e/e5/AFC_Bournemouth_%282013%29.svg) | ![Cristal Parance](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrHIWg1SfqohwKjCGSS5fcbOK4Z73YVhoZQ&s) |
+| ![Bournemouth](https://upload.wikimedia.org/wikipedia/sco/e/e5/AFC_Bournemouth_%282013%29.svg) | ![Crystal Palace](https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/1200px-Crystal_Palace_FC_logo_%282022%29.svg.png) |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Bournemouh**                                                                           | **Everton**                                                                    |
 

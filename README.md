@@ -7,7 +7,7 @@
 ## Jornada 18 de la Premier League  
 Se disputará el **jueves 26 de diciembre de 2024**.
 
-![Imagen del duelo](http://cnd.ultratv.rf.gd/eventos/v1/bournemouthvscrystalpalace.png)
+![Imagen del duelo](bournemouthvscrystalpalace.png)
 
 ---
 ## Transmisión en Vivo  
